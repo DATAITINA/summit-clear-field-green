@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Stead",
+      "hasCanvas": false,
+      "bodyTextLen": 116,
+      "bodyTextHash": "af9c845e8d74af1291a4889609038fdba146a7a28bc5de9ea78d983b23992649",
+      "bodyTextPrefix": "Stead A quiet agent for showing up every day. You name one thing",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Stead",
+      "hasCanvas": false,
+      "bodyTextLen": 116,
+      "bodyTextHash": "af9c845e8d74af1291a4889609038fdba146a7a28bc5de9ea78d983b23992649",
+      "bodyTextPrefix": "Stead A quiet agent for showing up every day. You name one thing",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
